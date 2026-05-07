@@ -1,0 +1,36 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+venv/
+env/
+
+# Keras/TF saved models (Python side)
+*.h5
+*.hdf5
+*.npy
+*.npz
+saved_model/
+
+# Data
+*.csv
+data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
